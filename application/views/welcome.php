@@ -38,3 +38,4 @@ if (isset($_REQUEST['logout'])) {
     <p><a href="?logout=">Logout</a></p>
   </body>
 </html>
+
